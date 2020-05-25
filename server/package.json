@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server for apollo graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trent Bennett",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.13.1",
+    "axios": "^0.19.2",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.4"
+  }
+}
