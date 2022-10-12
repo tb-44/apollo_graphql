@@ -9,7 +9,7 @@
   "author": "Trent Bennett",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.13.1",
+    "apollo-server": "^2.25.4",
     "axios": "^0.19.2",
     "graphql": "^15.0.0"
   },
